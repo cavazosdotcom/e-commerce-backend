@@ -35,13 +35,13 @@ Product.init(
         isNumeric: true,
       },
     },
-    category_id: {
-      type: DataTypes.INTEGER,
-      references: {
-        model: 'Category',
-        key: 'id',
-      },
-    },
+    // category_id: {
+    //   type: DataTypes.INTEGER,
+    //   references: {
+    //     model: 'Category',
+    //     key: 'id',
+    //   },
+    // },
   },
   {
     sequelize,
