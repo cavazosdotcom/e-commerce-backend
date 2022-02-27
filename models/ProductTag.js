@@ -1,7 +1,8 @@
+// import important parts of sequlize library
 const { Model, DataTypes } = require('sequelize');
 
 const sequelize = require('../config/connection');
-
+// Initialize ProductTag model (pivot table) by extending off Sequelize's Model class
 class ProductTag extends Model {}
 
 ProductTag.init(
