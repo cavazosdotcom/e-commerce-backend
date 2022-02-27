@@ -28,7 +28,7 @@ Creating the backend for an e-commerce site using Express.js alongside Sequilize
 
 # Links
 
-[team-generator Github Repo URL](https://github.com/cavazosdotcom/e-commerce-backend)
+[e-commerce-backend Github Repo URL](https://github.com/cavazosdotcom/e-commerce-backend)
 
   # Installation
 
